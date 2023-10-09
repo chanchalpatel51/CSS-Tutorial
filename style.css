@@ -1,11 +1,15 @@
-#box{
-    background-color: blue;
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
-.heading{
-    color: red;
+h1{
+    text-align: center;
+    text-transform: uppercase;
 }
 
-button{
-    background-color: green;
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
 }
